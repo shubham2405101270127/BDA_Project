@@ -1,0 +1,9 @@
+for single user (recommendations only)
+
+db.recommendations.find({"user_id": 100 })
+
+for single user (sentiment only)
+
+db.sentiment_analysis.find({ "_id": ObjectId("6a2e2d980891cb80cbf88778") })
+
+

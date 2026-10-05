@@ -1,0 +1,7 @@
+set PYSPARK_PYTHON=C:\Users\shuba\AppData\Local\Programs\Python\Python311\python.exe
+set PYSPARK_DRIVER_PYTHON=C:\Users\shuba\AppData\Local\Programs\Python\Python311\python.exe
+set SPARK_HOME=C:\spark
+set HADOOP_HOME=C:\hadoop
+set JAVA_HOME=C:\PROGRA~1\ECLIPS~1\JDK-11~1.6-H
+cd C:\BDA_Project
+C:\spark\bin\spark-submit.cmd show-results.py
